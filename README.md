@@ -1,37 +1,10 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
 
-## Project Name
-
-### Author: Student/Group Name
+## React Testing and Deployment
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [Sandbox](https://codesandbox.io/s/427nv579k7)
+* [aws manual deploy](http://lab27-manual-bucket.s3-website-us-east-1.amazonaws.com/#)
 * [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
 #### Tests
 * How do you run tests?
