@@ -1,6 +1,6 @@
 
 ## React Testing and Deployment
-A React counter app deployed to AWS S3 buckets two different ways, one was a zip file drag and drop deployment and the other using a `yml` file for automated deployment. To view the app follow the different links below.
+A React counter app deployed to AWS S3 buckets two different ways. The first deployment method was a manual zip file drag and drop deployment and the second using a `yml` file for automated deployment. To view the app follow the different links below.
 
 ### Links
 * [Code Sandbox](https://codesandbox.io/s/427nv579k7)
